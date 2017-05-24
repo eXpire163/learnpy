@@ -7,3 +7,5 @@ class Mathf(object):
         '''adds 2 numbers'''
         return para_a + para_b
 
+
+
